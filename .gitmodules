@@ -1,0 +1,6 @@
+[submodule "orbittalk"]
+	path = orbittalk
+	url = git@github.com:zhna123/orbittalk.git
+[submodule "orbittalk-api"]
+	path = orbittalk-api
+	url = git@github.com:zhna123/orbittalk-api.git
